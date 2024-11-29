@@ -1,0 +1,20 @@
+# Yarn
+.yarn/
+.pnp.*
+yarn-error.log
+
+# Next.js
+.next/
+out/
+build/
+
+# React
+node_modules/
+
+# Common
+*.log
+.DS_Store
+.env.local
+.env.development.local
+.env.production.local
+.env*.local
